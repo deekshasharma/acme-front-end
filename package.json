@@ -5,6 +5,10 @@
   "version": "0.1.0",
   "author": "Deeksha Sharma <deeks.sharma25@yahoo.com>",
   "dependencies": {
+    "@chakra-ui/react": "^1.7.4",
+    "@emotion/react": "^11",
+    "@emotion/styled": "^11",
+    "framer-motion": "^5",
     "gatsby": "^4.4.0",
     "gatsby-plugin-gatsby-cloud": "^4.4.0",
     "gatsby-plugin-image": "^2.4.0",
